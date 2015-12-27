@@ -19,7 +19,7 @@ use one instead of another?
 4. What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    
+    We can keep track of someone elses work that way.
 
 5. How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
