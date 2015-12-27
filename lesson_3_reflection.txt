@@ -13,7 +13,8 @@ automatically stay up-to-date with your remote repository?
 3. Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    
+    Fork is online copy of a repository, clone is local / online copy and 
+    branch is local copy.
 
 4. What is the benefit of having a copy of the last known state of the remote
 stored locally?
