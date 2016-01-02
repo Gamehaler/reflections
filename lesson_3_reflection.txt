@@ -30,4 +30,5 @@ and what would be harder?
 6. When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    
+    If there is more people working on the same files it would be good to 
+    make a new branch for every one of them.
