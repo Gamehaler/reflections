@@ -24,7 +24,8 @@ stored locally?
 5. How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    
+    It would be harder to work on the same file because it couldn't be posible 
+    for more than 1 person to work on that file at once.
 
 6. When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
